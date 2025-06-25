@@ -1,5 +1,7 @@
 
 Blinkit Sales Analysis Dashboard (Excel)
+
+
 This project is an interactive Excel dashboard designed to analyze Blinkit’s retail sales performance across various dimensions such as year, product category, outlet type, fat content, and location. The dashboard provides key sales metrics and allows dynamic filtering using slicers.
 
 Dashboard Highlights
